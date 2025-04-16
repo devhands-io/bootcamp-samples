@@ -1,3 +1,5 @@
+examples privided by Andrey Kustov (G26)
+
 parallelism options for node.js:
 1. https://nodejs.org/api/cluster.html
 2. pm2 start index.js -i max --name express_app
